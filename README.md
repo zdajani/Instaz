@@ -1,6 +1,7 @@
 Instaz
 =======================
 [![Code Climate](https://codeclimate.com/github/zdajani/Instaz/badges/gpa.svg)](https://codeclimate.com/github/zdajani/Instaz)
+[![Build Status](https://travis-ci.org/zdajani/Instaz.svg?branch=master)](https://travis-ci.org/zdajani/Instaz)
 ## Synopsis
 
 A basic photo sharing platform based on [Instagram](https://instagram.com/) using Rails. 
