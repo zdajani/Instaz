@@ -1,4 +1,4 @@
-class Photo < ActiveRecord::Base
+gclass Photo < ActiveRecord::Base
   include AsUserAssociationExtension
   
   has_many :comments,  

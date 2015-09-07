@@ -1,4 +1,4 @@
-Instaz
+InstaZ
 =======================
 [![Code Climate](https://codeclimate.com/github/zdajani/Instaz/badges/gpa.svg)](https://codeclimate.com/github/zdajani/Instaz)
 [![Build Status](https://travis-ci.org/zdajani/Instaz.svg?branch=master)](https://travis-ci.org/zdajani/Instaz)
@@ -19,7 +19,13 @@ With the following core features:
 - Framework: Rails
 - Database: Active Record, PostgreSQL, Database Cleaner
 - Testing: Rspec, Capybara, Poltergeist, Shoulda, Factory Girl
-- Other: Devise, Paperclip, Haml, CSS, Bootstrap, 
+- Other: Devise, Paperclip, Haml, Sass, Bootstrap, 
+
+
+![front page ](https://github.com/zdajani/Instaz/blob/master/app/assets/images/front_page.png)
+
+![sign_in ](https://github.com/zdajani/Instaz/blob/master/app/assets/images/sign_in_page.png)
+
 
 ## User Stories
 
